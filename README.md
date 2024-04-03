@@ -1,58 +1,36 @@
 # Top N Product Guide Web Application
 
-This project is a React front-end web application built using Next.js. It shows the top N products sold by five different e-commerce companies using their APIs. Users can view all products and specials without registering or logging in.
+The Top N Product Guide Web Application is a React-based front-end web app constructed with Next.js. It displays the top N products five distinct e-commerce platforms offer through their APIs. Users can browse all products and promotions without the requirement for registration or logging in.
 
-## Features
+## Key Features:
 
-- Access the top N products from five e-commerce companies
-- No need for users to sign up or type in login
-- Show product details including: Name, Company, Category, Price, Rating, discount and availability
-- Filter products by category, e-commerce company, review, price range and availability
-- Products by price, review, discount and pagination, Working for Good
-- Images randomly categorized by product images
+- Access the top N products from five e-commerce platforms.
+- No necessity for user registration or login.
+- Display comprehensive product information, including Name, Company, Category, Price, Rating, discount, and availability.
+- Filter products by category, e-commerce platform, review, price range, and availability.
+- Sort products by price, review, discount, and pagination for enhanced navigation.
+- Images are randomly categorized by product.
 
-## Installation
+## Installation:
 
-1. Copy repository:
+1. Navigate to the project directory:
+   
+2. Install dependencies:
+   
+3. Run the development server:
 
-`bash
-git clone https://github.com/your-username/top-n-products-web-app.git
+To access the application, open a web browser and visit [http://localhost:3000](http://localhost:3000).
 
-2. Enter the project directory:
+## Usage:
 
-bash
-cd top-n-products-web-app
+- Explore all available products: Visit the homepage.
+- View specific product details: Click on an item.
+- Utilize filter options to refine products by category, e-commerce platform, rating, price range, and availability.
+- Sort products by price, review, discount, and paginate results for better organization.
 
-
-3 .Install dependencies:
-> bash
-npm install
-
-
-4. Run the developer server:
-
-bash
-npm run dev
-
-
-5. To view the application, open a browser and visit http://localhost:3000.
-
-## Usage
-
-- See all products: Visit the home page to see all available products.
-- View specifications: Click on an item to see its details.
-- Product filter: Use filter options to narrow down products by category, e-commerce company, rating, price range and availability. - Product differentiation: Sort products by price, reviews, discount and submit paginated results for better results.
-
-## Tools used
+## Tools Utilized:
 
 - React.js
-- Next step. js
+- Next.js
 - HTML/CSS
 - JavaScript
-
-## Contributors
-
-- [yourname](https://github.com/your-username)
-< br> br>## License
-
-This work is licensed under the MIT License - see [LICENSE](LICENSE) for details.
